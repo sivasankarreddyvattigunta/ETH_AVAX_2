@@ -6,7 +6,6 @@ Getting Started
 
 To get the code running on your computer, follow the steps below:
 
-It seems like you have provided instructions for setting up and running a Hardhat project for integrating smart contracts using Solidity. The project involves deploying the smart contracts to a local Hardhat node and launching a frontend application to interact with those contracts. Below is a step-by-step breakdown of the instructions you've provided:
 
 1. **Clone the GitHub Repository:**
    You need to clone the project repository from GitHub. Replace `<repository_url>` with the actual URL of the repository.
